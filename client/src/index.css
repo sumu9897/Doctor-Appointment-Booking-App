@@ -6,7 +6,7 @@
 }
 
 .bg-primary {
-  background-color: #5f6fff;
+  background-color: #5f6fff !important;
 }
 
 .active hr{
